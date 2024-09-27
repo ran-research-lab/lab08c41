@@ -15,3 +15,4 @@ installcompi:
 	conda install -y --solver=classic -c conda-forge gxx
 	conda install -y --solver=classic -c conda-forge libffi
 	conda install -y --solver=classic conda-forge::conda-libmamba-solver conda-forge::libmamba conda-forge::libmambapy conda-forge::libarchive
+
